@@ -1,1 +1,2 @@
-system(hello-world)
+Class Power{
+System.out.println("power class")
